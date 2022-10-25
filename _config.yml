@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+# theme: minimal-mistakes
+# remote_theme: kitian616/jekyll-TeXt-theme
+
+exclude:
+  - mydoc_writers_*
+  - bower_components
+  - Gemfile
+  - script.ts
+  - vendor
+  - Orange-rs/src
+  # - node_modules
